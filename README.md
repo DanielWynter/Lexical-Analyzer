@@ -3,11 +3,11 @@ This project implements a Lexical Analyzer using a finite state automaton (DFA) 
 
 Features
 
-✅ Recognizes integers, floating-point numbers, variables, and operators.
-✅ Uses a deterministic finite automaton (DFA) for token validation.
-✅ Supports arithmetic operations (+, -, *, /), assignment (=), and parentheses ((, )).
-✅ Reads input from a text file and processes it efficiently.
-✅ Outputs the detected tokens along with their types.
+1. Recognizes integers, floating-point numbers, variables, and operators.
+2. Uses a deterministic finite automaton (DFA) for token validation.
+3. Supports arithmetic operations (+, -, *, /), assignment (=), and parentheses ((, )).
+4. Reads input from a text file and processes it efficiently.
+5. Outputs the detected tokens along with their types.
 
 Usage
 
